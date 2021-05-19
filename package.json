@@ -21,11 +21,12 @@
     "express-validator": "^6.4.0",
     "jsonwebtoken": "^8.5.1",
     "jwt-decode": "^2.2.0",
-    "mongoose": "^5.9.1",
+    "mongoose": "^5.12.10",
+    "node": "^16.1.0",
     "react-moment": "^0.9.7",
     "uuid": "^7.0.2"
   },
   "devDependencies": {
-    "nodemon": "^2.0.2"
+    "nodemon": "^2.0.7"
   }
 }
